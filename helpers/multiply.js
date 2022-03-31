@@ -20,7 +20,7 @@ const saveFile = async (base, final, list) => {
         //     if(err) throw err;
         //     console.log(`table-${base}.txt saved`);
         // });
-        fs.writeFileSync(`table-${base}.txt`, main);
+        fs.writeFileSync(`output/table-${base}.txt`, main);
         
         return `table-${base}.txt`;
     } catch (error) {

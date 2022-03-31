@@ -1,6 +1,6 @@
 # Notes:
 
-This is my fist program in Node
+This is my first program in Node
 
 ```
 Options:
